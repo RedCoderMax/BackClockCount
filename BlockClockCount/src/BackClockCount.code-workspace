@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "BackClockCount",
+			"path": "../.."
+		},
+		{
+			"name": "BlockClockCount",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
